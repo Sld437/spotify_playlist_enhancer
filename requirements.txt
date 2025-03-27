@@ -1,0 +1,5 @@
+spotipy>=2.22.1
+streamlit>=1.22.0
+apscheduler>=3.10.1
+python-dotenv>=0.21.0
+pandas>=1.5.2
